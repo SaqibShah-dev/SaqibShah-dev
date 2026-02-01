@@ -37,7 +37,7 @@ I build scalable, user-centric web applications and actively explore AI-driven s
 ---
 
 ### 📫 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/saqib-shah-374392290/?trk=opento_sprofile_topcard 
+- **LinkedIn:** https://www.linkedin.com/in/saqib-shah-374392290
 - **GitHub:** Explore my repositories below 👇  
 
 ---
