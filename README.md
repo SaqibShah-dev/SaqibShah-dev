@@ -1,16 +1,45 @@
-## Hi there 👋
+## Hi, I'm Saqib Shah 
 
-<!--
-**SaqibShah-dev/SaqibShah-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI & Computer Science Student | Full-Stack MERN Developer**  
+I build scalable, user-centric web applications and actively explore AI-driven solutions to real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Tech Stack
+**Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**AI / ML:** Python, Machine Learning  
+**Tools & Platforms:** Git, GitHub, REST APIs
+
+---
+
+###  What I Do
+- Design and develop full-stack MERN applications  
+- Build secure RESTful APIs with authentication & authorization  
+- Implement responsive UI with modern frontend practices  
+- Work on academic and practical AI & ML projects  
+
+---
+
+###  Current Focus
+- Advanced MERN stack development  
+- AI & Machine Learning fundamentals  
+- Writing clean, maintainable, and scalable code  
+
+---
+
+###  Open To
+- Part-time roles  
+- Freelance projects  
+- Remote & hybrid opportunities  
+
+---
+
+### 📫 Connect With Me
+- **LinkedIn:** https://linkedin.com/in/your-profile  
+- **GitHub:** Explore my repositories below 👇  
+
+---
+
+⭐ *Check out my pinned projects to see what I’m currently building.*
