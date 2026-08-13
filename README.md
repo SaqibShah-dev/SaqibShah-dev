@@ -13,20 +13,20 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a **Full-Stack Developer** who works across the **JavaScript/TypeScript** and **Python** ecosystems. I design scalable RESTful & FastAPI backends, build secure authentication systems, and automate deployments with Docker and CI/CD pipelines.
 
-- 🔭 Currently building APIs with **FastAPI** + **TypeScript** frontends
-- 🌱 Exploring async Python, microservices, and cloud-native deployments
-- 👯 Open to collaborating on open-source, freelance, and remote projects
-- 💬 Ask me about React, Node.js, FastAPI, auth systems, or Docker
+-  Currently building APIs with **FastAPI** + **TypeScript** frontends
+-  Exploring async Python, microservices, and cloud-native deployments
+-  Open to collaborating on open-source, freelance, and remote projects
+-  Ask me about React, Node.js, FastAPI, auth systems, or Docker
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 🎨 Frontend
+###  Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -35,49 +35,49 @@ I'm a **Full-Stack Developer** who works across the **JavaScript/TypeScript** an
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-### ⚙️ Backend
+###  Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-### 🗄️ Database & ORM
+###  Database & ORM
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
-### 🔌 API
+###  API
 - **REST API** — Resource-based routing, proper HTTP status codes, versioning
 - **FastAPI** — High-performance async Python APIs with auto OpenAPI docs
 - **Express.js** — Middleware-driven Node.js APIs with clean controller patterns
 - **WebSocket** — Real-time bidirectional communication
 - **API Security** — Rate limiting, input validation, CORS, Helmet headers
 
-### 🔐 Authentication & Security
+###  Authentication & Security
 - **JWT** — Stateless authentication & secure token management
 - **OAuth 2.0** — Google, GitHub social auth integrations
 - **RBAC** — Role-Based Access Control (admin, user, custom permissions)
 - **Bcrypt / Argon2** — Secure password hashing
 - **HTTP-only Cookies** — XSS-protected session handling
 
-### 📦 Package Managers
+###  Package Managers
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 
-### 🧪 Testing
+###  Testing
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat&logo=testing-library&logoColor=white)
 
-### 🐳 DevOps
+###  DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
-## 💡 What I Do
+##  What I Do
 
 - **Full-Stack Development** — MERN & Python/FastAPI apps with TypeScript
 - **API Architecture** — Design robust RESTful & FastAPI backends with proper documentation
@@ -89,7 +89,7 @@ I'm a **Full-Stack Developer** who works across the **JavaScript/TypeScript** an
 
 ---
 
-## 📌 Pinned Projects
+##  Pinned Projects
 
 | Project | Stack | Description |
 |---------|-------|-------------|
@@ -101,16 +101,8 @@ I'm a **Full-Stack Developer** who works across the **JavaScript/TypeScript** an
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaqibShah-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaqibShah-dev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-## 🎯 Current Focus
+##  Current Focus
 
 - Building high-performance APIs with **FastAPI** & async Python
 - Advanced TypeScript patterns & strict type safety
@@ -121,7 +113,7 @@ I'm a **Full-Stack Developer** who works across the **JavaScript/TypeScript** an
 
 ---
 
-## 🤝 Open To
+##  Open To
 
 - 💼 Part-time & freelance opportunities
 - 🌍 Remote & hybrid roles
