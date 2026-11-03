@@ -1,127 +1,195 @@
 <h1 align="center">Hi, I'm Saqib Shah 👋</h1>
-<h3 align="center">Full-Stack Developer | MERN & Python Specialist | DevOps & API Architect</h3>
+
+<h3 align="center">
+  Full-Stack AI Engineer | MERN, Next.js & Python | RAG & Vector Databases | Learning DevOps
+</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/saqib-shah-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/saqib-shah-dev">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:saqibshah3902@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=SaqibShah-dev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <a href="https://github.com/SaqibShah-dev">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ##  About Me
 
-I'm a **Full-Stack Developer** who works across the **JavaScript/TypeScript** and **Python** ecosystems. I design scalable RESTful & FastAPI backends, build secure authentication systems, and automate deployments with Docker and CI/CD pipelines.
+I'm a **Full-Stack AI Engineer and Computer Science (AI) student** based in Islamabad, Pakistan. I build scalable web applications, secure APIs, and AI-powered products using the **MERN stack**, **Next.js**, **Python**, and modern AI workflows. [1]
 
--  Currently building APIs with **FastAPI** + **TypeScript** frontends
--  Exploring async Python, microservices, and cloud-native deployments
--  Open to collaborating on open-source, freelance, and remote projects
--  Ask me about React, Node.js, FastAPI, auth systems, or Docker
+I enjoy taking products from idea to deployment — designing databases, developing clean APIs, building responsive interfaces, integrating authentication, and improving deployment workflows with Docker and CI/CD.
+
+-  Currently building AI-assisted healthcare and full-stack web applications  
+-  Learning **RAG**, **vector databases**, **Next.js**, and **DevOps**  
+-  Open to freelance, part-time, remote, and internship opportunities  
+-  Interested in open-source collaboration and real-world product development  
+-  Reach me at **saqibshah3902@gmail.com**  
+
+---
+
+##  What I Build
+
+- **Full-Stack Web Applications** — MERN, Next.js, TypeScript, React, Node.js, Express, MongoDB  
+- **AI-Powered Applications** — Python, TensorFlow, Keras, CNN, LSTM, computer vision, speech processing  
+- **Secure Authentication Systems** — JWT, OAuth, RBAC, bcrypt/Argon2, HTTP-only cookies  
+- **REST API Architecture** — Express and FastAPI, validation, versioning, documentation  
+- **Real-Time Applications** — WebSockets, Socket.io, live chat, notifications  
+- **AI Search & Retrieval Systems** — RAG pipelines, embeddings, vector databases, semantic search  
+- **DevOps Workflows** — Docker, GitHub Actions, CI/CD pipelines, cloud deployment  
 
 ---
 
 ##  Tech Stack
 
-###  Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+### Frontend
 
-###  Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
 
-###  Database & ORM
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+### Backend
 
-###  API
-- **REST API** — Resource-based routing, proper HTTP status codes, versioning
-- **FastAPI** — High-performance async Python APIs with auto OpenAPI docs
-- **Express.js** — Middleware-driven Node.js APIs with clean controller patterns
-- **WebSocket** — Real-time bidirectional communication
-- **API Security** — Rate limiting, input validation, CORS, Helmet headers
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-###  Authentication & Security
-- **JWT** — Stateless authentication & secure token management
-- **OAuth 2.0** — Google, GitHub social auth integrations
-- **RBAC** — Role-Based Access Control (admin, user, custom permissions)
-- **Bcrypt / Argon2** — Secure password hashing
-- **HTTP-only Cookies** — XSS-protected session handling
+### Databases & Vector Search
 
-###  Package Managers
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
+<p>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img alt="Chroma" src="https://img.shields.io/badge/Chroma-FF6F00?style=for-the-badge&logo=chroma&logoColor=white" />
+</p>
 
-###  Testing
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat&logo=testing-library&logoColor=white)
+### AI & Machine Learning
 
-###  DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+<p>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
 
----
+### DevOps & Tools
 
-##  What I Do
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+</p>
 
-- **Full-Stack Development** — MERN & Python/FastAPI apps with TypeScript
-- **API Architecture** — Design robust RESTful & FastAPI backends with proper documentation
-- **Database Design** — Schema modeling with MongoDB, SQL, and Prisma ORM
-- **Secure Authentication** — JWT, OAuth, RBAC, and session management
-- **Containerization** — Dockerized multi-service apps (Node + Python + DB)
-- **CI/CD Pipelines** — Automated testing and deployment with GitHub Actions
-- **Testing** — Unit & integration tests with Vitest, Jest, and Pytest
+### Testing
 
----
-
-##  Pinned Projects
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| **[ShopEasy E-Commerce](https://github.com/SaqibShah-dev/shopeasy-ecommerce)** | React, Vite, Tailwind, React Query | Feature-rich e-commerce with cart, auth, and secure checkout |
-| **[PixelCraft Marketplace](https://github.com/SaqibShah-dev/pixelcraft-marketplace)** | MERN, Tailwind | Digital asset marketplace with persistent cart & category filtering |
-| **[Campus Event Management](https://github.com/SaqibShah-dev/Campus-Event-Management-System)** | React, Express, MongoDB, JWT | Role-based auth with student/club/admin dashboards |
-| **[FullStack Chat App](https://github.com/SaqibShah-dev/FullStack-ChatApplication)** | MERN, WebSocket, Zustand | Real-time messaging with Cloudinary image storage |
-| **[Speech Emotion Recognition](https://github.com/SaqibShah-dev/Speech-emotion-recognition-cnn-lstm)** | Python, TensorFlow, Keras | Deep learning SER with 1D CNN + LSTM architecture |
+<p>
+  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+</p>
 
 ---
 
+##  Featured Projects
 
-##  Current Focus
+###  [SymptoScan](https://github.com/SaqibShah-dev/Symptoscan)
 
-- Building high-performance APIs with **FastAPI** & async Python
-- Advanced TypeScript patterns & strict type safety
-- Database modeling with **Prisma** & **SQL**
-- Docker & container orchestration for multi-stack apps
-- CI/CD with GitHub Actions + cloud deployments
-- TDD with Vitest, Jest, and Pytest
+**MERN · TypeScript · WebRTC · Socket.io · Stripe · AI**
+
+An AI-powered telemedicine platform with WebRTC consultations, real-time chat, Stripe payments, medical image analysis, prescription OCR, and automated symptom triaging.
+
+###  [Food Delivery App](https://github.com/SaqibShah-dev/food-delivery-app)
+
+**TypeScript · React · Modern Web**
+
+A modern and responsive food ordering platform that allows users to browse restaurants, view menus, add items to a cart, and complete the checkout experience.
+
+###  [ShopEasy E-Commerce](https://github.com/SaqibShah-dev/shopeasy-ecommerce)
+
+**React · Vite · Tailwind CSS · React Query**
+
+A responsive e-commerce application featuring product filtering, cart management, authentication, and a secure checkout flow.
+
+###  [FullStack Chat Application](https://github.com/SaqibShah-dev/FullStack-ChatApplication)
+
+**MERN · WebSocket · Zustand · Cloudinary**
+
+A real-time chat application with WebSocket messaging, Cloudinary image uploads, authentication, and efficient global state management.
+
+###  [Campus Event Management System](https://github.com/SaqibShah-dev/Campus-Event-Management-System)
+
+**React · Express · MongoDB · JWT**
+
+A full-stack event management platform with role-based authentication and separate dashboards for students, clubs, and administrators.
+
+###  [Speech Emotion Recognition](https://github.com/SaqibShah-dev/Speech-emotion-recognition-cnn-lstm)
+
+**Python · TensorFlow · Keras · CNN · LSTM**
+
+A deep learning system for speech emotion recognition using a hybrid 1D CNN + LSTM architecture on the RAVDESS dataset.
+
+###  [Authentication System in TypeScript](https://github.com/SaqibShah-dev/auth-system-ts)
+
+**Node.js · Express · TypeScript · MongoDB · JWT**
+
+A production-ready authentication and authorization REST API with JWT authentication, role-based access control, and secure password hashing.
 
 ---
 
-##  Open To
+##  Currently Learning
 
-- 💼 Part-time & freelance opportunities
-- 🌍 Remote & hybrid roles
-- 🤝 Open-source collaborations
-- 📧 [Let's connect on LinkedIn](https://linkedin.com/in/saqib-shah-dev)
+- Building **RAG applications** with document ingestion, embeddings, retrieval, and LLM responses  
+- Working with **vector databases** such as Pinecone and Chroma for semantic search  
+- Developing full-stack applications with **Next.js App Router**, server components, and API routes  
+- Building high-performance APIs with **FastAPI** and async Python  
+- Containerizing multi-service applications with **Docker**  
+- Automating testing and deployment using **GitHub Actions** and CI/CD pipelines  
+- Exploring cloud deployment, monitoring, and production-ready DevOps practices  
 
 ---
+## 📈 GitHub Stats
 
 <p align="center">
-  <i>Building things that matter, one commit at a time.</i> ⭐
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SaqibShah-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SaqibShah-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+---
+
+## 🤝 Let's Connect
+
+I’m open to discussing full-stack development, AI-powered products, RAG systems, API architecture, DevOps, freelance work, or open-source collaboration.
+
+<p align="center">
+  <a href="https://linkedin.com/in/saqib-shah-dev">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saqibshah3902@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building intelligent products, one commit at a time.</i> 
 </p>
