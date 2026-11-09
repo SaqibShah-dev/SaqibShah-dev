@@ -50,7 +50,7 @@ I'm a Full-Stack AI Engineer and Computer Science (AI) student based in Islamaba
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -63,7 +63,7 @@ I'm a Full-Stack AI Engineer and Computer Science (AI) student based in Islamaba
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/SaqibShah-dev">
