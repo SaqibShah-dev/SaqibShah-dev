@@ -27,8 +27,7 @@ I enjoy taking products from idea to deployment — designing databases, develop
 -  Currently building AI-assisted healthcare and full-stack web applications  
 -  Learning **RAG**, **vector databases**, **Next.js**, and **DevOps**  
 -  Open to freelance, part-time, remote, and internship opportunities  
--  Interested in open-source collaboration and real-world product development  
--  Reach me at **saqibshah3902@gmail.com**  
+-  Interested in open-source collaboration and real-world product development    
 
 ---
 
