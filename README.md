@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saqib-shah-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SaqibShah-dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:saqibshah3902@gmail.com)
 
 ---
 
@@ -40,6 +40,9 @@ I'm a Full-Stack AI Engineer and Computer Science (AI) student based in Islamaba
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 
 **DevOps & Testing**
 
@@ -54,12 +57,14 @@ I'm a Full-Stack AI Engineer and Computer Science (AI) student based in Islamaba
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **[SymptoScan](https://github.com/SaqibShah-dev/SymptoScan)** | AI-powered telemedicine platform featuring medical image analysis (Kidney CT & Chest X-ray), Prescription OCR, and document RAG features | React 19 · Node.js · Express · RAG |
-| **[Student Course Management](https://github.com/SaqibShah-dev/student-course-management)** | Offline-first course management tool built with IndexedDB ACID cascade transactions | Next.js 16 · Dexie.js · TypeScript |
-| **[Personal Task Manager](https://github.com/SaqibShah-dev/personal-task-manager)** | Task platform with JWT auth, Zod schema validation, Zustand state, and automated CI/CD | MERN · Zustand · GitHub Actions |
-| **[Speech Emotion Recognition](https://github.com/SaqibShah-dev/speech-emotion-recognition)** | Deep learning SER using hybrid 1D CNN + LSTM on RAVDESS dataset | Python · TensorFlow · Keras |
-| **[AWS Legal Group Frontend](https://github.com/SaqibShah-dev/aws-legal-group)** | Responsive legal marketing portal featuring client-side jsPDF invoice generation | React 19 · Vite · Tailwind CSS |
-| **[FullStack Chat App](https://github.com/SaqibShah-dev/fullstack-chat-app)** | Real-time chat application with WebSockets, Cloudinary uploads, and Zustand state management | MERN · Socket.io · Zustand |
+| **[SymptoScan](https://github.com/SaqibShah-dev/Symptoscan)** | AI-powered telemedicine platform with WebRTC video consultations, real-time Socket.io chat, Stripe payments, and automated AI symptom triaging | React · Node.js · Express · MongoDB · Socket.io · Stripe |
+| **[RCNN Number Plate Detection](https://github.com/SaqibShah-dev/RCNN_NumberPlate_Detection_Semester_Project)** | Object detection pipeline using Selective Search + a custom CNN, reaching 85% accuracy | Python · TensorFlow · Keras · Computer Vision |
+| **[Auth System (TypeScript)](https://github.com/SaqibShah-dev/auth-system-ts)** | Production-ready authentication & authorization REST API with JWT, role-based access control, and bcrypt hashing | Node.js · Express · TypeScript · MongoDB |
+| **[Learn CI/CD](https://github.com/SaqibShah-dev/learn-ci-cd)** | Express server with a full CI/CD pipeline: automated tests, Docker image, GitHub Actions, and Render deployment | Node.js · Docker · GitHub Actions · Render |
+| **[Speech Emotion Recognition](https://github.com/SaqibShah-dev/Speech-emotion-recognition-cnn-lstm)** | Hybrid 1D CNN + LSTM model trained on the RAVDESS dataset using Librosa audio features | Python · TensorFlow · Keras · Librosa |
+| **[FullStack Chat App](https://github.com/SaqibShah-dev/FullStack-ChatApplication)** | Real-time chat with WebSockets, Cloudinary image uploads, and Zustand state management | MERN · Socket.io · Zustand |
+| **[Campus Event Management](https://github.com/SaqibShah-dev/Campus-Event-Management-System)** | Role-based platform with separate student, club, and admin dashboards | React · Vite · Express · MongoDB · JWT |
+| **[Food Delivery App](https://github.com/SaqibShah-dev/food-delivery-app)** | Responsive ordering platform: browse restaurants, view menus, cart, and checkout | TypeScript · React |
 
 ---
 
